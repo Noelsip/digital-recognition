@@ -1,3 +1,12 @@
+## 👥 Informasi Kelompok (Kelompok 3)
+| Nama Anggota | NIM |
+| :--- | :--- |
+| **Azizi Faris Zamawan** | 11191014 |
+| **Alief Rachmattul Islam** | 11231007 |
+| **Arya Zaky Pradipta** | 11231013 |
+| **Muhammad Fatwa Al Choiri** | 11231055 |
+| **Noel Ericson Sipayung** | 11231072 |
+
 # Hand Character Recognition
 
 CNN untuk pengenalan tulisan tangan **0-9 dan A-Z** (36 karakter total) dengan multi-character segmentation. Tulis "11", "ABC", atau "HELLO123" — semua bisa dibaca.
